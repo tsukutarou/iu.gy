@@ -1,3 +1,3 @@
 # iu.gy
 ***
-https://tsukutarou.net
+https://www.tsukutarou.net
