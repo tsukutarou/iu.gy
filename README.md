@@ -9,6 +9,8 @@ Both ㍺ and ㏉ are a single letter of Unicode, which are converted to ASCII le
 
 ### Owner
 
+Name: Tsukutarou
+
 Email: 
 
-page: <a href="https://www.tsukutarou.net">https://www.tsukutarou.net</a>
+Page: <a href="https://www.tsukutarou.net">https://www.tsukutarou.net</a>
