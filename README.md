@@ -6,4 +6,9 @@ You can also access this page by entering "㍺.㏉" instead of "iu.gy" to addres
 Both ㍺ and ㏉ are a single letter of Unicode, which are converted to ASCII letters by browsers when they're in URLs.
 
 ***
-Author's page: <a href="https://www.tsukutarou.net">https://www.tsukutarou.net</a>
+
+### Owner
+
+Email: 
+
+page: <a href="https://www.tsukutarou.net">https://www.tsukutarou.net</a>
