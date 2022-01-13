@@ -11,6 +11,6 @@ Both ㍺ and ㏉ are a single letter of Unicode, which are converted to ASCII le
 
 Name: Tsukutarou
 
-Email: 
+Email: U[at]iu.gy
 
 Page: <a href="https://www.tsukutarou.net">https://www.tsukutarou.net</a>
