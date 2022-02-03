@@ -9,7 +9,7 @@ Both ㍺ and ㏉ are a single letter of Unicode, which are converted to ASCII le
 
 ### Owner
 
-Name: Tsukutarou
+**Tsukutarou**
 
 Email: U[at]iu.gy
 
